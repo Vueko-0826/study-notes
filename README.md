@@ -26,6 +26,9 @@ study-notes/
 │   ├── mathematical-physics-methods/
 │   │   ├── solutions/
 │   │   └── README.md
+│   ├── quantum-field-theory/
+│   │   ├── solutions/
+│   │   └── README.md
 │   ├── symplectic-geometry/
 │   │   ├── notes/
 │   │   └── README.md
@@ -63,6 +66,10 @@ study-notes/
 ### mathematical-physics-methods
 
 - 数学物理方法习题解答
+
+### quantum-field-theory
+
+- 量子场论习题解答
 
 ### symplectic-geometry
 

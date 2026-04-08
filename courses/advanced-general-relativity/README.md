@@ -4,6 +4,20 @@
 
 ## 当前内容
 
+### code
+
+- `hw-02.nb`
+- `hw-03.nb`
+- `hw-04.nb`
+- `hw-04-part-1.nb`
+- `kerr-newman.nb`
+- `kerr-newman-v2.nb`
+- `tov.nb`
+- `tov-numerical-solution.nb`
+- `circular-orbit.nb`
+
+这些文件是高等广义相对论相关的 Mathematica Notebook，包含作业计算、Kerr-Newman 解、TOV 方程和圆轨道等内容。
+
 ### solutions
 
 - `advanced-gr-solutions-01.pdf`

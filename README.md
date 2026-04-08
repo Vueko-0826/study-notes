@@ -18,6 +18,7 @@ study-notes/
 │   │   ├── homework/
 │   │   └── README.md
 │   ├── advanced-general-relativity/
+│   │   ├── code/
 │   │   ├── solutions/
 │   │   └── README.md
 │   ├── conformal-field-theory/
@@ -64,6 +65,7 @@ study-notes/
 ### advanced-general-relativity
 
 - 高等广义相对论习题解答
+- 高等广义相对论 Mathematica 程序与计算笔记
 
 ### conformal-field-theory
 

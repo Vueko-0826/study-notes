@@ -18,6 +18,9 @@ study-notes/
 │       ├── homework/
 │       └── README.md
 ├── research/
+│   ├── 2d-0-2-duality-on-s2/
+│   │   ├── code/
+│   │   └── README.md
 │   └── supersymmetric-conformal-field-theory/
 │       ├── code/
 │       └── README.md
@@ -34,6 +37,10 @@ study-notes/
 ### supersymmetric-conformal-field-theory
 
 - 用于计算超对称极小模型特征标的 Mathematica 程序
+
+### 2d-0-2-duality-on-s2
+
+- 研究 4d duality 理论紧致在 2d S^2 上后得到的 2d N=(0,2) duality 的 Mathematica Notebook
 
 ## 后续计划
 

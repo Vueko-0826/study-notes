@@ -18,6 +18,9 @@ study-notes/
 │       ├── homework/
 │       └── README.md
 ├── research/
+│   ├── 5d-nekrasov-3d-vortex-duality/
+│   │   ├── code/
+│   │   └── README.md
 │   ├── 2d-0-2-duality-on-s2/
 │   │   ├── code/
 │   │   └── README.md
@@ -37,6 +40,10 @@ study-notes/
 ### supersymmetric-conformal-field-theory
 
 - 用于计算超对称极小模型特征标的 Mathematica 程序
+
+### 5d-nekrasov-3d-vortex-duality
+
+- 研究规范群为 SO、SU、SP 时 5d Nekrasov 瞬子配分函数与 3d 涡旋弦配分函数对偶的 Mathematica Notebook
 
 ### 2d-0-2-duality-on-s2
 

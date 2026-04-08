@@ -14,8 +14,11 @@
 ```text
 study-notes/
 ├── courses/
-│   └── advanced-thermo-statmech/
-│       ├── homework/
+│   ├── advanced-thermo-statmech/
+│   │   ├── homework/
+│   │   └── README.md
+│   └── string-theory/
+│       ├── notes/
 │       └── README.md
 ├── research/
 │   ├── 5d-nekrasov-3d-vortex-duality/
@@ -36,6 +39,10 @@ study-notes/
 ### advanced-thermo-statmech
 
 - 高等热力学与统计物理作业答案
+
+### string-theory
+
+- 弦论学习笔记
 
 ### supersymmetric-conformal-field-theory
 

@@ -20,6 +20,9 @@ study-notes/
 │   ├── lie-groups-and-lie-algebras/
 │   │   ├── notes/
 │   │   └── README.md
+│   ├── mathematical-physics-methods/
+│   │   ├── solutions/
+│   │   └── README.md
 │   ├── symplectic-geometry/
 │   │   ├── notes/
 │   │   └── README.md
@@ -49,6 +52,10 @@ study-notes/
 ### lie-groups-and-lie-algebras
 
 - 李群李代数学习笔记
+
+### mathematical-physics-methods
+
+- 数学物理方法习题解答
 
 ### symplectic-geometry
 

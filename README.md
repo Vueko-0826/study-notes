@@ -17,6 +17,9 @@ study-notes/
 │   ├── advanced-thermo-statmech/
 │   │   ├── homework/
 │   │   └── README.md
+│   ├── four-manifolds/
+│   │   ├── notes/
+│   │   └── README.md
 │   ├── lie-groups-and-lie-algebras/
 │   │   ├── notes/
 │   │   └── README.md
@@ -48,6 +51,10 @@ study-notes/
 ### advanced-thermo-statmech
 
 - 高等热力学与统计物理作业答案
+
+### four-manifolds
+
+- 四维流形学习笔记：surgery 理论、spin 结构、1-handle 理论
 
 ### lie-groups-and-lie-algebras
 

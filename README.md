@@ -17,6 +17,9 @@ study-notes/
 │   ├── advanced-thermo-statmech/
 │   │   ├── homework/
 │   │   └── README.md
+│   ├── lie-groups-and-lie-algebras/
+│   │   ├── notes/
+│   │   └── README.md
 │   └── string-theory/
 │       ├── notes/
 │       └── README.md
@@ -39,6 +42,10 @@ study-notes/
 ### advanced-thermo-statmech
 
 - 高等热力学与统计物理作业答案
+
+### lie-groups-and-lie-algebras
+
+- 李群李代数学习笔记
 
 ### string-theory
 

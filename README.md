@@ -17,6 +17,9 @@ study-notes/
 │   ├── advanced-thermo-statmech/
 │   │   ├── homework/
 │   │   └── README.md
+│   ├── conformal-field-theory/
+│   │   ├── solutions/
+│   │   └── README.md
 │   ├── four-manifolds/
 │   │   ├── notes/
 │   │   └── README.md
@@ -54,6 +57,10 @@ study-notes/
 ### advanced-thermo-statmech
 
 - 高等热力学与统计物理作业答案
+
+### conformal-field-theory
+
+- 共形场论习题解答
 
 ### four-manifolds
 

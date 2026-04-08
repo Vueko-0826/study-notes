@@ -20,6 +20,9 @@ study-notes/
 │   ├── lie-groups-and-lie-algebras/
 │   │   ├── notes/
 │   │   └── README.md
+│   ├── symplectic-geometry/
+│   │   ├── notes/
+│   │   └── README.md
 │   └── string-theory/
 │       ├── notes/
 │       └── README.md
@@ -46,6 +49,10 @@ study-notes/
 ### lie-groups-and-lie-algebras
 
 - 李群李代数学习笔记
+
+### symplectic-geometry
+
+- 辛几何学习笔记
 
 ### string-theory
 

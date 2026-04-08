@@ -1,12 +1,13 @@
 ﻿# study-notes
 
-这是我的课程学习仓库，用于长期整理和保存各类学习资料，包括：
+这是我的学习资料仓库，用于长期整理和保存各类学习内容，包括：
 
 - 课程笔记
 - 作业答案
 - 推导整理
 - 复习资料
 - 个人学习过程中的阶段性总结
+- 研究相关代码与笔记
 
 ## 当前目录结构
 
@@ -15,6 +16,10 @@ study-notes/
 ├── courses/
 │   └── advanced-thermo-statmech/
 │       ├── homework/
+│       └── README.md
+├── research/
+│   └── supersymmetric-conformal-field-theory/
+│       ├── code/
 │       └── README.md
 ├── .gitignore
 └── README.md
@@ -26,9 +31,13 @@ study-notes/
 
 - 高等热力学与统计物理作业答案
 
+### supersymmetric-conformal-field-theory
+
+- 用于计算超对称极小模型特征标的 Mathematica 程序
+
 ## 后续计划
 
-后续会继续加入更多课程与学习内容，例如：
+后续会继续加入更多课程与研究相关内容，例如：
 
 - 量子场论
 - 数学物理

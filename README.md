@@ -17,6 +17,9 @@ study-notes/
 │   ├── advanced-thermo-statmech/
 │   │   ├── homework/
 │   │   └── README.md
+│   ├── advanced-general-relativity/
+│   │   ├── solutions/
+│   │   └── README.md
 │   ├── conformal-field-theory/
 │   │   ├── solutions/
 │   │   └── README.md
@@ -57,6 +60,10 @@ study-notes/
 ### advanced-thermo-statmech
 
 - 高等热力学与统计物理作业答案
+
+### advanced-general-relativity
+
+- 高等广义相对论习题解答
 
 ### conformal-field-theory
 
